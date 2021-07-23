@@ -5,7 +5,7 @@
 
 Simple cross-platform Naver search plugin for Arvis
 
-![](./demo.png)
+![](./demo.gif)
 
 ## Install
 
