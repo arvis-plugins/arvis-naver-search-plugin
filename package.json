@@ -1,0 +1,30 @@
+{
+  "name": "arvis-naver-search-plugin",
+  "version": "0.0.2",
+  "description": "Naver search plugin for Arvis",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup",
+    "prepublishOnly": "arvish-prepublish"
+  },
+  "files": [
+    "arvis-plugin.json",
+    "*.js",
+    "README.md",
+    "LICENSE",
+    "icon.png"
+  ],
+  "keywords": [
+    "arvis",
+    "arvis-plugin",
+    "arvish",
+    "naver"
+  ],
+  "author": "jopemachine",
+  "license": "MIT",
+  "dependencies": {
+    "arvish": ">=0.6.4",
+    "encodeurl": "^1.0.2"
+  }
+}

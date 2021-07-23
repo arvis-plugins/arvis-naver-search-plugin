@@ -1,0 +1,19 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/plugin-schema.json",
+    "creator": "jopemachine",
+    "name": "arvis-naver-search-plugin",
+    "enabled": true,
+    "description": "Naver search plugin for Arvis",
+    "readme": "",
+    "version": "0.0.2",
+    "webAddress": "https://github.com/jopemachine/arvis-naver-search-plugin",
+    "main": "index.js",
+    "defaultIcon": "icon.png",
+    "actions": [
+        {
+            "type": "open",
+            "modifiers": "normal",
+            "target": "{query}"
+        }
+    ]
+}
