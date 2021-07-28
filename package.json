@@ -1,6 +1,6 @@
 {
   "name": "arvis-naver-search-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Naver search plugin for Arvis",
   "main": "index.js",
   "scripts": {

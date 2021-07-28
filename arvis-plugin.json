@@ -5,7 +5,7 @@
     "enabled": true,
     "description": "Naver search plugin for Arvis",
     "readme": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "webAddress": "https://github.com/jopemachine/arvis-naver-search-plugin",
     "main": "index.js",
     "defaultIcon": "icon.png",
@@ -13,7 +13,7 @@
         {
             "type": "open",
             "modifiers": "normal",
-            "target": "http://search.naver.com/search.naver?ie=utf8&sm=stp_hty&where=se&query=${query}"
+            "target": "http://search.naver.com/search.naver?ie=utf8&sm=stp_hty&where=se&query={query}"
         }
     ]
 }
