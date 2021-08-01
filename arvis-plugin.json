@@ -5,8 +5,8 @@
     "enabled": true,
     "description": "Naver search plugin for Arvis",
     "readme": "",
-    "version": "0.0.4",
-    "webAddress": "https://github.com/jopemachine/arvis-naver-search-plugin",
+    "version": "0.0.5",
+    "webAddress": "https://github.com/arvis-plugins/arvis-naver-search-plugin",
     "main": "index.js",
     "defaultIcon": "icon.png",
     "actions": [

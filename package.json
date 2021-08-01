@@ -1,6 +1,6 @@
 {
   "name": "arvis-naver-search-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Naver search plugin for Arvis",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "author": "jopemachine",
   "license": "MIT",
   "dependencies": {
-    "arvish": ">=0.6.4",
+    "arvish": ">=0.7.0",
     "encodeurl": "^1.0.2"
   }
 }
